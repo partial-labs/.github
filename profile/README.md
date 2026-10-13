@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔨 MindForge Labs
+# ∂ Labs
 
 **Advancing efficient, lightweight, and accurate machine learning**
 
@@ -18,7 +18,7 @@
 
 ## 🧠 About
 
-MindForge Lab is an independent research organization dedicated to advancing the fields of **machine learning** and **artificial intelligence**. Our work centers on the development of *efficient, lightweight, and accurate* models — systems that achieve strong performance without unnecessary computational cost.
+∂ Labs is an independent research organization dedicated to advancing the fields of **machine learning** and **artificial intelligence**. Our work centers on the development of *efficient, lightweight, and accurate* models — systems that achieve strong performance without unnecessary computational cost.
 
 Founded by **Aarav Sureka**, MindForge Lab was established with the goal of contributing rigorous, reproducible research to the broader scientific community and making efficient, lightweight, and accurate model.We welcome collaboration with fellow researchers, academic institutions, and organizations sharing an interest in responsible and resource-conscious AI development.
 
